@@ -1,3 +1,5 @@
+mibdirs +/usr/share/snmp/mibs:/usr/share/snmp/mibs/iana:/usr/share/snmp/mibs/ietf
+
 mibdirs +/usr/share/snmp/mibs/snmp-mibs-main/2n
 mibdirs +/usr/share/snmp/mibs/snmp-mibs-main/3com
 mibdirs +/usr/share/snmp/mibs/snmp-mibs-main/4rf
